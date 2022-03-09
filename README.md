@@ -7,4 +7,4 @@
 - 🌱 Aprendendo sobre Python, Spark, Azure Dtabricks, Data Factory e Bancos de dados do Azure;
 - ⚡ Grande fã de Wrestling e Sumo, gibis, filmes e séries da Marvel. Curto Dc também, mas nem tanto.
 
->
+-->
