@@ -6,4 +6,5 @@
 ## Sobre Mim:
 
 Eu sou um estusiata em dados e programação, sempre estudando sobre a área de matemática e tecnologia.
+
 Atualmente estou atuando como Engenheiro de Dados na BlueShift Brasil.
