@@ -11,8 +11,7 @@ Atualmente estou atuando como Engenheiro de Dados na BlueShift Brasil.
 
 ## Meu kit de ferramentas:
 
-## Linguagens: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-               <i class="devicon-python-plain-wordmark"></i>
+## Linguagens: 
           
           
           
