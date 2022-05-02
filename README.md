@@ -8,3 +8,8 @@
 Eu sou um entusiasta em dados e programação, sempre estudando sobre a área de matemática e tecnologia.
 
 Atualmente estou atuando como Engenheiro de Dados na BlueShift Brasil.
+
+## Meu kit de ferramentas:
+
+## Linguagens: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
