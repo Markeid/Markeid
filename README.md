@@ -29,8 +29,11 @@ Atualmente estou atuando como Engenheiro de Dados na BlueShift Brasil.
 <img align="center" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markeid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markeid&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Markeid)
+<div align="center">
+  <a href="https://github.com/Markeid">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markeid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markeid&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div> 
 
