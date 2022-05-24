@@ -1,5 +1,6 @@
 ## Hello there, I'm Marcus Vinicius
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riccomoura&label=Profile%20views&color=0e75b6&style=flat" alt="Markeid" /> </p>
 <div>
   <a href="https://github.com/Markeid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus-vinicius-ara%C3%BAjo-5a9180198" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
