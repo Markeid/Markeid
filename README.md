@@ -28,7 +28,7 @@ Atualmente estou atuando como Engenheiro de Dados Pleno na TDW Bi Consulting.
 </div>
 
 ## Controle de Versão: <div style="display: inline_block"><br> 
-<img align="center" height="70" width="70" class="devicon-github-original-wordmark">
+<i align="center" height="70" width="70" class="devicon-github-original-wordmark"></i>
 </div>
 
 <div align="center">
